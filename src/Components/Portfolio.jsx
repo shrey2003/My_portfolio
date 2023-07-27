@@ -31,28 +31,20 @@ const imageAltText = "desktop with books and laptop";
  */
 const projectList = [
   {
-    title: "10 Things To Know About Azure Static Web Apps 🎉",
-    description:
-      "Collaboration to create a beginner friendly article to help explain Azure Static Web Apps and tooling to get started.",
-    url: "https://dev.to/azure/10-things-to-know-about-azure-static-web-apps-3n4i",
+    title: "AI Research Intern               @School of Computer and Systems Sciences (SCSS), Jawaharlal Nehru University",
+    description: "Helped develop and improve ML models using various techniques of NLP over dataset of 10,000+ keywords.",
+    
   },
   {
-    title: "Web Development for Beginners",
+    title: "AI Developer Intern @Munshiverse",
     description:
-      "Contributed sketch note imagery to accompany each lesson. These help provide visual representation of what is being taught.",
-    url: "https://github.com/microsoft/web-dev-for-beginners",
+      "Developed OpenAI GPT 3.5/4 based chatbots Journal Entry Builder Bot and Financial Bot for multiple platforms Leveraged OpenAI API and prompt engineering techniques showcasing automation and proficiency in Python programming improving user interactions by 50% Demonstrated proficiency in Docker and Docker Compose enabling streamlined deployment and containerization of the chatbotassistant reducing deployment time by 40% Deployed projects on Amazon AWS utilizing S3 for efficient storage and retrieval of user images Implemented MongoDB for chathistory storage and retrieval ensuring seamless data management and increasing efficiency by 30%",
   },
   {
-    title: "My Resume Site",
+    title: "Result Satisfaction Analyst @TELUS International",
     description:
-      "Created from Microsoft's resume workshop and deployed to GitHub pages. Includes my experience and design abilities.",
-    url: "https://github.com/microsoft/workshop-library/tree/main/full/build-resume-website",
-  },
-  {
-    title: "GitHub Codespaces and github.dev",
-    description:
-      "Video interview to explain when to use GitHub.dev versus GitHub Codespaces, and how best to use each tool.",
-    url: "https://www.youtube.com/watch?v=c3hHhRME_XI",
+      "Analysing various datasets according to the guidelines provided and resolved data discrepancies by reporting errors in the data which helps in refining data and improved accuracy for research for the organisation by 25% .",
+    
   },
 ];
 

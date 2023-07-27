@@ -27,8 +27,8 @@ const siteProps = {
   name: "Shreya Mishra",
   title: "Tech Enthusiast",
   email: "shreymishra0307@gmail.com",
-  gitHub: "https://github.com/shrey2003",
-  linkedIn: "https://www.linkedin.com/in/shreya-mishra03/",
+  gitHub: "shrey2003",
+  linkedIn: "shreya-mishra03/",
   medium: "",
 };
 
